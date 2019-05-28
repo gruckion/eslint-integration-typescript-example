@@ -4,10 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This is an example of how to setup vscode to use ESLint on a TypeScript React project. The following guides where hurt in the making.
 
-https://dev.to/robertcoopercode/using-eslint-and-prettier-in-a-typescript-project-53jb
-https://javascriptplayground.com/typescript-eslint/
-https://dev.to/benweiser/how-to-set-up-eslint-typescript-prettier-with-create-react-app-3675
-https://eslint.org/docs/rules/
+- https://dev.to/robertcoopercode/using-eslint-and-prettier-in-a-typescript-project-53jb
+- https://javascriptplayground.com/typescript-eslint/
+- https://dev.to/benweiser/how-to-set-up-eslint-typescript-prettier-with-create-react-app-3675
+- https://eslint.org/docs/rules/
 
 ## Available Scripts
 
